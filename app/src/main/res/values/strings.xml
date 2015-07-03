@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EditTextDemo5</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Hint_one">enter an integer value</string>
+    <string name="Hint_two">enter another integer value</string>
+</resources>
